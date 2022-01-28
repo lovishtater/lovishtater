@@ -1,6 +1,6 @@
 ![Banner Lovish](https://github.com/lovishtater/lovishtater/blob/main/GithubIntro.png)
 <p align="center">I'm a creative problem solving enthusiast guy, with a constantly growing love for emerging technologies.</p>
-<p align="center">I'm proud to say that **I can succesfully center an element with css**.</p>
+<p align="center">I'm proud to say that <b>I can succesfully center an element with css.</b></p>
 <!-- <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=lovishtater"> -->
 
 
@@ -31,7 +31,7 @@ I can provide you :-
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 </p> -->
 
-#### if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+#### if you like what i do, maybe consider buying me a coffee 🥺👉👈
 <a href="https://www.buymeacoffee.com/lovishtater" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <p align="left">
