@@ -34,10 +34,23 @@ I can provide you :-
 #### if you like what i do, maybe consider buying me a coffee 🥺👉👈
 <a href="https://www.buymeacoffee.com/lovishtater" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<p align="left">
+<!-- <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=lovishtater&show_icons=true&hide=issues&hide_border=true">
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovishtater&hide=TeX&layout=compact">
-</p>
+</p> -->
 
+## Languages
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovishtater&theme=tokyonight&langs_count=10&layout=compact&show_icons=true&border_radius=40">
+
+## GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=lovishtater&theme=tokyonight&show_icons=true">
+
+<img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=lovishtater&theme=tokyonight">
+ </p>
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-LovishTater-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lovishtater08)](https://www.linkedin.com/in/lovishtater08)
 [![Gmail Badge](https://img.shields.io/badge/-lovishtater@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lovishtater@gmail.com)](mailto:lovishtater@gmail.com)
