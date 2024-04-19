@@ -45,12 +45,8 @@ I can provide you :-
 
 ## GitHub Stats
 
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=lovishtater&theme=tokyonight&show_icons=true">
-
 <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=lovishtater&theme=tokyonight">
- </p>
+<!--  <p align="center"> </p> -->
  
 [![Linkedin Badge](https://img.shields.io/badge/-LovishTater-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lovishtater08)](https://www.linkedin.com/in/lovishtater08)
 [![Gmail Badge](https://img.shields.io/badge/-lovishtater@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lovishtater@gmail.com)](mailto:lovishtater@gmail.com)
