@@ -1,52 +1,58 @@
-![Banner Lovish](https://github.com/lovishtater/lovishtater/blob/main/GithubIntro.png)
-<p align="center">I'm a creative problem solving enthusiast guy, with a constantly growing love for emerging technologies.</p>
-<p align="center">I'm proud to say that <b>I can succesfully center an element with css.</b></p>
-<!-- <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=lovishtater"> -->
+# 👋 Hi, I'm Lovish Tater
 
+🚀 Software Engineer (Web & Mobile) | 🧠 Tech Generalist | 💡 Startup Enthusiast  
+🌱 Currently diving deeper into AWS, AI, and Infrastructure
 
-I can provide you :-
-- Smart interactive UI/UX web design 
-- Clean/Professional code 
-- Secure,
-- Easy-to-Navigate, 
-- SEO-Friendly, 
-- Browsers-Compatible, 
-- Perfect-Responsive websites according to your need.
+---
 
-<!-- <h2>🚀 Some Tools I Use</h2>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45" />
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-</p> -->
+### 🛠️ What I Do
 
-#### if you like what i do, maybe consider buying me a coffee 🥺👉👈
-<a href="https://www.buymeacoffee.com/lovishtater" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" width="150" ></a>
+I'm a **Full Stack Software Engineer** with deep expertise in **JavaScript**, **Node.js**, **React.js**, **React Native**, and **TypeScript**.
 
-<!-- <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=lovishtater&show_icons=true&hide=issues&hide_border=true">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovishtater&hide=TeX&layout=compact">
-</p> -->
+I’ve contributed across the **entire product lifecycle** — from **ideation and MVP** to **scaling and infra optimization**, sometimes leading **small teams**. I bring a **product and business-first mindset**, ensuring engineering decisions align with strategy.
 
-## Languages
+I’ve worked with:
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovishtater&theme=tokyonight&langs_count=10&layout=compact&show_icons=true&border_radius=40">
+- Monolithic, microservices, and serverless architectures
+- Cloud deployments (AWS: Lambda, AppSync, DynamoDB, S3, CloudWatch)
+- High-performance mobile and web apps
 
-## GitHub Stats
+---
 
-<img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=lovishtater&theme=tokyonight">
-<!--  <p align="center"> </p> -->
- 
-[![Linkedin Badge](https://img.shields.io/badge/-LovishTater-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lovishtater08)](https://www.linkedin.com/in/lovishtater08)
-[![Gmail Badge](https://img.shields.io/badge/-lovishtater@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lovishtater@gmail.com)](mailto:lovishtater@gmail.com)
+### 🧠 Philosophy
+
+> Great products are not just coded — they’re *understood*, *designed*, and *delivered* with intent.
+
+Whether building internal tools or user-facing apps, I focus on creating real business value — not just delivering features.
+
+---
+
+### 🔧 Tech Stack
+
+**Languages:** JavaScript, TypeScript, Java, Dart  
+**Frontend:** React.js, React Native, Next.js, Tailwind, Redux  
+**Backend:** Node.js, Express, Firebase, AWS Lambda, GraphQL  
+**Infra & DB:** MongoDB, DynamoDB, S3, AppSync, CloudWatch  
+**Testing & Tools:** Jest, Playwright, Postman, Git, Figma
+
+---
+
+### 🌍 Domains I’ve Worked In
+
+- 🇺🇸 **Social platform** for top B-school & finance grads (Harvard, Stanford, etc.)
+- 🇮🇳 **E-commerce** system for India's largest polymer distributor
+- 📚 **AI-powered EdTech** platform improving math learning
+- 🍱 **Food tech** company preparing and delivering meals across multiple countries in GCC and UK
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 Portfolio: [lovishtater.in](https://lovishtater.in)  
+- 🔗 LinkedIn: [linkedin.com/in/lovishtater](https://linkedin.com/in/lovishtater08)  
+- 📬 Email: [![Gmail Badge](https://img.shields.io/badge/-lovishtater@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lovishtater@gmail.com)](mailto:lovishtater@gmail.com)
+  
+---
+
+_Thanks for visiting! Star ⭐️ a repo if you find something useful!_
+
