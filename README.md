@@ -14,7 +14,7 @@ I’ve contributed across the **entire product lifecycle** — from **ideation a
 I’ve worked with:
 
 - Monolithic, microservices, and serverless architectures
-- Cloud deployments (AWS: Lambda, AppSync, DynamoDB, S3, CloudWatch)
+- Cloud deployments (AWS: Lambda, EC2, AppSync, DynamoDB, S3, CloudWatch and much more)
 - High-performance mobile and web apps
 
 ---
@@ -29,10 +29,10 @@ Whether building internal tools or user-facing apps, I focus on creating real bu
 
 ### 🔧 Tech Stack
 
-**Languages:** JavaScript, TypeScript, Java, Dart  
+**Languages:** JavaScript, TypeScript. (sometimes Python for AI stuff, Dart for flutter apps, and Java for suffering)  
 **Frontend:** React.js, React Native, Next.js, Tailwind, Redux  
 **Backend:** Node.js, Express, Firebase, AWS Lambda, GraphQL  
-**Infra & DB:** MongoDB, DynamoDB, S3, AppSync, CloudWatch  
+**Infra & DB:** MongoDB, DynamoDB, S3, AppSync, CloudWatch and most of AWS services 
 **Testing & Tools:** Jest, Playwright, Postman, Git, Figma
 
 ---
